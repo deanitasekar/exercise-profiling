@@ -3,6 +3,32 @@
 ###### 2306229405
 
 ### Test Results
+### *Endpoint* /all-student
+Test Result:
+![](/reports_testresults/testresults1.png)
+Before Optimization:
+![](/reports_testresults/before-all-student.png)
+After Optimization:
+![](/reports_testresults/after-all-student.png)
+
+### *Endpoint* /all-student-name
+Test Result:
+Test Result:
+![](/reports_testresults/testresults2.png)
+Before Optimization:
+![](/reports_testresults/before-all-student-name.png)
+After Optimization:
+![](/reports_testresults/after-all-student-name.png)
+
+### *Endpoint* /highest-gpa
+Test Result:
+![](/reports_testresults/testresults3.png)
+Before Optimization:
+![](/reports_testresults/before-highest-gpa.png)
+After Optimization:
+![](/reports_testresults/after-highest-gpa.png)
+
+Berdasarkan hasil tersebut, terlihat bahwa `Sample Time` sebelum dioptimasi menunjukkan waktu yang lebih lama dibandingkan setelah optimasi, dengan peningkatan performa berdasarkan waktu eksekusi yang diperoleh. Oleh karena itu, dapat disimpulkan bahwa proses optimasi yang dilakukan dengan bantuan JMeter dan Intellij Profiler terbilang berhasil untuk membuat kode lebih efektif dan efisien.
 
 ### Reflection
 #### 1. What is the difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler in the context of optimizing application performance?
