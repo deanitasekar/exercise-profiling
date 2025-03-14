@@ -3,7 +3,7 @@
 ###### 2306229405
 
 ### Test Results
-### *Endpoint* /all-student
+### *Endpoint* `/all-student`
 Test Result:
 ![](/reports_testresults/testresults1.png)
 Before Optimization:
@@ -11,7 +11,7 @@ Before Optimization:
 After Optimization:
 ![](/reports_testresults/after-all-student.png)
 
-### *Endpoint* /all-student-name
+### *Endpoint* `/all-student-name`
 Test Result:
 Test Result:
 ![](/reports_testresults/testresults2.png)
@@ -20,7 +20,7 @@ Before Optimization:
 After Optimization:
 ![](/reports_testresults/after-all-student-name.png)
 
-### *Endpoint* /highest-gpa
+### *Endpoint* `/highest-gpa`
 Test Result:
 ![](/reports_testresults/testresults3.png)
 Before Optimization:
